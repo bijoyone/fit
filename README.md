@@ -1,4 +1,4 @@
-# fitclub
+# FitClub
 ## React Gym App
 
 Project Description:
