@@ -4,6 +4,13 @@
 Project Description:
 
 ```bash
+Expolore Programs
+Reasons to choose
+Plans
+Testimonials
+Send Email
+Contact
+Responsive
 
 ```
 
