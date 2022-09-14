@@ -17,7 +17,7 @@ Responsive
 
 ## Technologies used
 
-For frontend and backend below technologies and libraries used:
+For frontend below technologies and libraries used:
 
 - React
 - Framer motion (for animation)
